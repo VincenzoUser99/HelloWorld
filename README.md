@@ -1,0 +1,1 @@
+Questo codice utilizza varie librerie per andare a prendere i dati da internet , trasformarli e modificarli e poi andare ad inserirli su un DataBase esterno per creare uno storico dei comuni italiani dal 1861 al 2024
